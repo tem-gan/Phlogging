@@ -6,6 +6,7 @@ The date and time the entry was created<br />
 Text<br />
 A photo taken with the camera<br />
 The location (lat/long)<br />
+<br />
 Phlogging app functionality:<br />
 Create an entry<br />
 Display a list of the entries (e.g., Photo, Title, and Date/Time)<br />
